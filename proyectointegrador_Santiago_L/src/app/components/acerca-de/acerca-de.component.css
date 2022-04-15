@@ -18,19 +18,22 @@
     @media (min-width: 576px){
 #fotoperfil{
     position: absolute;
-    width: 65%;
-    border-radius: 100%;
+    width: 60%;
+    border-radius: 80%;
         box-shadow: 3px 3px 3px grey;
         left: 35%;
+        top: -18px
+        ;
 
 }
 @media (max-width: 575px){
     #fotoperfil{
         position: absolute;
-        width: 30%;
+        width: 10%;
         border-radius: 100%;
             box-shadow: 3px 3px 3px grey;
-            left: 35%;
+            left: 33%;
+            top: 630px;
     
     }
     }
